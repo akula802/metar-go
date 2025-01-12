@@ -7,9 +7,9 @@ This is a project I'm working on as part of my journey to learn Go. It's pretty 
 
 The compiled executable is called 'metar' and accepts a command-line flag called station. If no station is supplied, it defaults to KBJC.
 
-metar -station=PANC,PAAQ,PATK
+`metar -station=PANC,PAAQ,PATK`
 
-I have a similar command mapped as the alias 'localwx' in my ~/.bashrc file.
+I have a similar command mapped as the alias `localwx` in my ~/.bashrc file.
 
 ![screenshot](https://i.imgur.com/hhuSrBH.png)
 
